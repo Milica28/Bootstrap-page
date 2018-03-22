@@ -1,0 +1,24 @@
+body {
+    background: url(https://images.unsplash.com/photo-1475954704693-ac6850a71ee0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=30f20b3919ff0ac87974fb36a65c89bf&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    background-position: center;
+    font-family: Anton;
+}
+
+html {
+    height: 100%;
+}
+
+#content {
+    text-align: center;
+    padding-top: 35%;
+    padding-left: 18%;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+hr {
+    width: 400px;
+}
